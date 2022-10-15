@@ -14,3 +14,7 @@ if __name__ == '__main__':
     print('Address')
 
 print('All Done')
+
+def print_hi():
+    print("Hi")
+
